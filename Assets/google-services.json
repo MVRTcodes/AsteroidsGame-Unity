@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1010540398030",
+    "firebase_url": "https://unityfirebasebbdd.firebaseio.com",
+    "project_id": "unityfirebasebbdd",
+    "storage_bucket": "unityfirebasebbdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010540398030:android:51f4d412e1f2f3f88b979f",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.AsteroidsJuego"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010540398030-9iq0cg19ocdtfbuatkihlh6ot5cq7sen.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArRgq3_mnsT-yT9G4z0nwyoWaJZNHsjzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010540398030-9iq0cg19ocdtfbuatkihlh6ot5cq7sen.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
